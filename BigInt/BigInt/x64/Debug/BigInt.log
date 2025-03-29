@@ -1,0 +1,6 @@
+﻿  Code.cpp
+D:\SP - Mohamed Moshrif\Session9\BigInt\BigInt\BigInt.h(24,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Code.cpp')
+  
+D:\SP - Mohamed Moshrif\Session9\BigInt\BigInt\Code.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BigInt.vcxproj -> D:\SP - Mohamed Moshrif\Session9\BigInt\x64\Debug\BigInt.exe

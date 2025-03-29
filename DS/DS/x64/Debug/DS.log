@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\SP - Mohamed Moshrif\Session14\DS\DS\Source.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DS.vcxproj -> D:\SP - Mohamed Moshrif\Session14\DS\x64\Debug\DS.exe
